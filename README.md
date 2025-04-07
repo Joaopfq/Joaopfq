@@ -20,7 +20,7 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Tailwind.css](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 
 ### Socials
