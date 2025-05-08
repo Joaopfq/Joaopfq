@@ -21,7 +21,7 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 ### Skills I'm Looking to Develop
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![AWS]([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white))
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
