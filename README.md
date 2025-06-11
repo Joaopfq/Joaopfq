@@ -25,7 +25,7 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 ### Skills I'm Looking to Develop
 
 ![Lighthouse](https://a11ybadges.com/badge?logo=lighthouse)
-![Accessibility (A11y)](https://a11ybadges.com/badge?text=a11y_badges&textColor=CBEFF6)
+![Accessibility (A11y)](https://a11ybadges.com/badge?text=a11y&textColor=CBEFF6)
 
 ### Socials
 
