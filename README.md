@@ -12,6 +12,8 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -19,13 +21,11 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Skills I'm Looking to Develop
 
-![Lighthouse](https://img.shields.io/badge/Lighthouse-Performance-00C853?style=flat-square&logo=lighthouse&logoColor=white)
-![Accessibility (A11y)](https://img.shields.io/badge/Accessibility-WCAG%202.1-795548?style=flat-square&logo=accessibility&logoColor=white)
+![Lighthouse](https://a11ybadges.com/badge?logo=lighthouse)
+![Accessibility (A11y)](https://a11ybadges.com/badge?text=a11y_badges&textColor=CBEFF6)
 
 ### Socials
 
