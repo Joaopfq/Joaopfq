@@ -19,11 +19,13 @@ Hi! I'm João Paulo, a 22-year-old Software Engineering graduate passionate abou
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Skills I'm Looking to Develop
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-Performance-00C853?style=flat-square&logo=lighthouse&logoColor=white)
+![Accessibility (A11y)](https://img.shields.io/badge/Accessibility-WCAG%202.1-795548?style=flat-square&logo=accessibility&logoColor=white)
 
 ### Socials
 
